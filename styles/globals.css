@@ -27,6 +27,10 @@ nav a {
 nav .logo {
   margin-right: auto;
 }
+
+nav .logo:hover {
+  cursor: pointer;
+}
 footer {
   display: block;
   text-align: center;
